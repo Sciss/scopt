@@ -1,6 +1,7 @@
 import minitest._
 import java.io.ByteArrayOutputStream
 import java.net.URI
+
 import scala.concurrent.duration.Duration
 
 object ImmutableParserSpec extends SimpleTestSuite with PowerAssertions {
